@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\KingMarkMcC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1b2d7fb2efbc59bc1531d383f4c35bd669dbf57b.jar" />
+    </item>
+    <item
+        jar="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\build\intermediates\pre-dexed\debug\json_simple-1.1-86e871820d3b9d2db9f5d526cf5dd26ee4e4a7d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\build\intermediates\pre-dexed\debug\classes-dfa11bda46e9e15ad47c47068819547801fcbba8.jar" />
+    </item>
+    <item
+        jar="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\build\intermediates\pre-dexed\debug\classes-7661cb129c8e745ebc18f78a2225c4520e0de72a.jar" />
+    </item>
+    <item
+        jar="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-63bdfb9b85bbf545c34b0906741459123fd09228.jar" />
+    </item>
+    <item
+        jar="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\libs\dropbox-android-sdk-1.6.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="C:\Users\KingMarkMcC\AndroidStudioProjects\PyCast\app\build\intermediates\pre-dexed\debug\dropbox-android-sdk-1.6.3-bffbac642db1dea49558d9ff37e1b92ea819b1b3.jar" />
+    </item>
+
+</items>
